@@ -1,0 +1,14 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "it tweets.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luke camelo",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
